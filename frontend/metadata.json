@@ -1,0 +1,6 @@
+{
+  "name": "HabiCapital: Ledger-First P2P Payments",
+  "description": "A high-integrity peer-to-peer payment platform with a double-entry ledger, idempotency, and social trust features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
